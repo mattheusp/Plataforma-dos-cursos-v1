@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap');
+
+.faq {
+    background-color: #FAFAFA !important;
+}
+
+.card {
+    background-color: #FAFAFA !important;
+    border: none !important;
+}
+
+.card span {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.faq h2 {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.faq span {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.card-shadow {
+    border-radius: 8px;
+    box-shadow: 0px 20px 15px 0px rgb(0 0 0 / 2%);
+}
+
+.card-shadow button {
+    border-radius: 8px;
+    background-color: #FFF !important;
+}
+
+.card-shadow .card-body {
+    border-radius: 8px;
+    background-color: #FFF !important;
+}
+
+.card-shadow div {
+    border-radius: 8px;
+}
+
+.faq-title {
+    background-color: #FAFAFA !important;
+}
+
+.faq-title span {
+    font-size: 20px;
+    color: #181818;
+    font-weight: bold;
+}
+
+.card-body span {
+    font-weight: 500;
+    font-size: 16px;
+    color: #181818;
+}
+
+.accordion {
+    margin-bottom: 100px;
+}
